@@ -1,6 +1,6 @@
 echo hello world
 
-echo "*****hello world****
+echo "*****hello world****"
 
 # color code syntax : echo -e "\e[colmMESSAGE\e[0m"
 # Red      - 31 - echo -e "\e[colmMESSAGE\e[0m"
