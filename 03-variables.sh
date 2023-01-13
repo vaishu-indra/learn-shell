@@ -5,3 +5,4 @@ class=DevOps
 
 echo Trainer Name - $trainer
 echo Class Name - ${class}
+
